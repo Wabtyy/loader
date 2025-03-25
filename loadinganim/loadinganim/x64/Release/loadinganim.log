@@ -1,0 +1,7 @@
+﻿  loadinganim.cpp
+C:\Users\muellerj\source\repos\loadinganim\loadinganim\loadinganim.cpp(188,25): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 180 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  loadinganim.vcxproj -> C:\Users\muellerj\source\repos\loadinganim\x64\Release\loadinganim.exe

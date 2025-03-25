@@ -1,0 +1,3 @@
+﻿  loadinganim.cpp
+C:\Users\muellerj\source\repos\loadinganim\loadinganim\loadinganim.cpp(188,25): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  loadinganim.vcxproj -> C:\Users\muellerj\source\repos\loadinganim\x64\Debug\loadinganim.exe
